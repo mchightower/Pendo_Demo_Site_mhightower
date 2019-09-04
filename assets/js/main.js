@@ -14,11 +14,7 @@
 		xsmall: '(max-width: 480px)',
 		xxsmall: '(max-width: 360px)'
 	});
-		//Track Events Test
-		pendo.track("Registered", {
-  			plan: "Pro Annual",
- 			accountType: "Facebook"
-					});	
+
 	$(function() {
 
 		var	$window = $(window),
